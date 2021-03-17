@@ -1,0 +1,6 @@
+Word: foo; Synonym: A two o s file
+Word: fooo; Synonym: A three o s file
+Word: foooo; Synonym: A three o s file
+Word: fooooo; Synonym: A four o s file
+Word: foooooo; Synonym: A five o s file
+Word: fooooooo; Synonym: A six o s file
