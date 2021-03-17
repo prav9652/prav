@@ -1,6 +1,0 @@
-Word: foo; Antonym: A short file
-Word: fooo; Antonym: A short short file
-Word: foooo; Antonym: A short short short file
-Word: fooooo; Antonym: A short short short short file
-Word: foooooo; Antonym: A short short short short short file
-Word: fooooooo; Antonym: A short short short short short short file
